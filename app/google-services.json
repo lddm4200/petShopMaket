@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061429278004",
+    "project_id": "petmaket-8a36e",
+    "storage_bucket": "petmaket-8a36e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061429278004:android:2337a5e7df67abade3a161",
+        "android_client_info": {
+          "package_name": "com.example.petshopmaket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF4DzPcvivFX0_msw55KE_cFTd5x7kmvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
